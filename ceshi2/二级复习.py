@@ -4,4 +4,4 @@ def fact(n):
         s*= i
     return s
 print(fact(100))
-
+a = 1
